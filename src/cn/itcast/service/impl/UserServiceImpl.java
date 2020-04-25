@@ -32,12 +32,12 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public User findUserById(String id) {
-        return null;
+        return dao.findById(Integer.parseInt(id));
     }
 
     @Override
     public void updateUser(User user) {
-
+        dao.update(user);
     }
 
     @Override
