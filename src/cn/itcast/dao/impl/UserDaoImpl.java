@@ -46,7 +46,10 @@ public class UserDaoImpl implements UserDao {
 
     @Override
     public void delete(int id) {
-
+        // 1.定义sql
+        String sql = "delete from user where id = ?";
+        // 2.执行sql
+        template.update(sql, id);
     }
 
     @Override
