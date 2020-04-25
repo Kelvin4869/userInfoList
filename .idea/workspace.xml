@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/WEB-INF/classes/cn/itcast/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/WEB-INF/classes/cn/itcast/dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/WEB-INF/classes/cn/itcast/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/WEB-INF/classes/cn/itcast/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day17_userInfoList_war_exploded/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day17_userInfoList/cn/itcast/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day17_userInfoList/cn/itcast/dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day17_userInfoList/cn/itcast/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day17_userInfoList/cn/itcast/service/impl/UserServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/itcast/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/dao/impl/UserDaoImpl.java" afterDir="false" />
@@ -159,7 +158,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -179,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587654200457</updated>
       <workItem from="1587654205297" duration="7958000" />
-      <workItem from="1587737334277" duration="10049000" />
+      <workItem from="1587737334277" duration="10432000" />
     </task>
     <servers />
   </component>
