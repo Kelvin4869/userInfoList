@@ -1,5 +1,6 @@
 package cn.itcast.service;
 
+import cn.itcast.domain.PageBean;
 import cn.itcast.domain.User;
 
 import java.util.List;
@@ -60,5 +61,7 @@ public interface UserService {
     * @param condition
     * @return
     * */
-    // PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> condition);
+//     PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> condition);
+
+    PageBean<User> findUserByPage(String currentPage, String rows);
 }

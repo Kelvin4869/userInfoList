@@ -24,7 +24,7 @@ public interface UserDao {
     * @return
     * @param condition
     * */
-    public int findTotalCount(Map<String, String[]> condition);
+    public int findTotalCount();
 
     /*
     * 分页查询每页记录
@@ -33,5 +33,6 @@ public interface UserDao {
     * @param condition
     * @return
     * */
-    List<User> findByPage(int start, int rows, Map<String, String[]> condition);
+    List<User> findByPage(int start, int rows);
+
 }
