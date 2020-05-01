@@ -61,7 +61,5 @@ public interface UserService {
     * @param condition
     * @return
     * */
-//     PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> condition);
-
-    PageBean<User> findUserByPage(String currentPage, String rows);
+    PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> condition);
 }
